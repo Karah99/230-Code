@@ -22,7 +22,7 @@ require 'includes/header.php';
                         <a href="#">
                             <img src="media/'.$row["picpath"].'">
                             <h3>'.$row["title"].'</h3>
-                            <p>'.$row["descipt"].'</p>
+                            <p>'.$row["desrcipt"].'</p>
                         </a>
                     </div>';
                 }
